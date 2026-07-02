@@ -1,0 +1,9 @@
+1. Cerrar sesión al terminar de usar la plataforma para evitar accesos no autorizados.
+
+2. Revisar y actualizar los permisos de los usuarios de forma periódica.
+
+3. Evitar compartir enlaces privados o información interna en redes sociales.
+
+4. Implementar filtros contra contenido malicioso o spam dentro de la plataforma.
+
+5. Realizar copias de seguridad de la información para prevenir pérdida de datos.
