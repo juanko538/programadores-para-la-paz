@@ -1,0 +1,2 @@
+Cuando se envía un reporte mediante la ruta POST /reportes, el servidor lo guarda en una lista en memoria llamada "reportes". Cada reporte recibe un id automático, junto con el tipo y la descripción enviados por el usuario.
+Luego, al consultar la ruta GET /reportes, el servidor devuelve todos los reportes almacenados hasta el momento en formato JSON. Si se han enviado varios reportes, estos aparecerán en forma de lista. Esto permite ver toda la información registrada durante la ejecución del servidor.
