@@ -1,0 +1,4 @@
+{
+  "tipo": "Basuras",
+  "descripcion": "Hay acumulación de basura en una esquina del barrio y necesita ser recogida."
+}
