@@ -1,0 +1,7 @@
+Las dos tareas que realizaría primero son ver los reportes y reportar un problema, porque sin ellas no sería posible registrar la información ni consultarla para hacer seguimiento a los casos.
+
+Para mí, una tarea está terminada cuando:
+
+- Cumple con el objetivo para el que fue creada.
+- Se verificó que funciona correctamente.
+- Los cambios quedaron guardados en Git mediante un commit.

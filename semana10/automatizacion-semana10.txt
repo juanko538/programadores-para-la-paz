@@ -1,0 +1,7 @@
+Evento: Un ciudadano envía un nuevo reporte al sistema.
+
+Acción: n8n genera una alerta y la envía al canal de Telegram del equipo.
+
+Mensaje: "Hay un nuevo reporte pendiente de revisión. Consulta la plataforma para más detalles."
+
+Información que no debe enviarse: Datos personales del usuario, documentos de identidad, direcciones, números de contacto, contraseñas ni información confidencial.

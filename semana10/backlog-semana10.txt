@@ -1,0 +1,9 @@
+1. Como ciudadano quiero reportar un problema para informar a la comunidad.
+
+2. Como coordinador quiero recibir notificaciones para atender nuevos casos.
+
+3. Como miembro quiero ver los reportes para hacer seguimiento.
+
+4. Como ciudadano quiero editar mi reporte para corregir errores.
+
+5. Como administrador quiero cerrar reportes para mantener el sistema actualizado.
