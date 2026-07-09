@@ -1,0 +1,24 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha
+
+Propósito:
+Registrar los reportes realizados por la comunidad para dar seguimiento a las diferentes situaciones que se presenten.
+
+
+Entidad: Comentario
+
+Campos principales:
+- id
+- reporte_id
+- usuario
+- mensaje
+- fecha
+
+Propósito:
+Guardar las opiniones o aportes de los usuarios sobre cada reporte, promoviendo la participación y el intercambio de ideas de forma organizada.
