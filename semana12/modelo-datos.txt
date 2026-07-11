@@ -1,0 +1,23 @@
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Almacena la información principal de cada causa o iniciativa creada por la comunidad.
+
+Entidad: Apoyo
+- id
+- causa_id
+- usuario_id
+- fecha
+
+Registra los apoyos recibidos por cada causa y los relaciona con la iniciativa correspondiente.
+
+Entidad: Usuario
+- id
+- nombre
+- correo
+- fecha_registro
+
+Guarda la información básica de las personas que participan en la plataforma, ya sea creando una causa o apoyando una iniciativa. Solo se almacenan los datos necesarios para proteger la privacidad de los usuarios.
